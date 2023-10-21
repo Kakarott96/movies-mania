@@ -34,7 +34,7 @@ const PopularMovieList = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>FAJAR MOVIE MANIA</h1>
+        <h1>KAKAROT MOVIE MANIA</h1>
         <input 
           placeholder="Search Movie.." 
           className="Movie-search" 
